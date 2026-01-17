@@ -7,7 +7,7 @@ Development code written during competition preparation for a satellite project 
 ## Project Structure
 
 ```
-mix/
+Satellite Project /
 ├── ErrorCodeDetection/       # Error Code Detection System 
 ├── I2CAddressTest/           # I2C Address Scanner
 ├── PressureArduino/          # BMP280 Pressure Sensor Basic Test
